@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [e-Janausadhi](Will available soon)
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **React-Native**
 
 - 👯 I’m looking to collaborate with **Android developer**
 

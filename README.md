@@ -12,8 +12,7 @@
 
 - 👯 I’m looking to collaborate with **Android developer**
 
-- 👨‍💻 All of my projects are available at [Available soon](Available soon)
-
+- 👨‍💻 All of my projects are available at https://ravvviii.netlify.app/
 - 💬 Ask me about **Frontend**
 
 - 📫 How to reach me **workwithravvviii@gmail.com**

@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React-Native**
 
-- 👯 I’m looking to collaborate with **Android developer**
+- 👯 I’m looking to collaborate with **Developer**
 
 - 👨‍💻 All of my projects are available at https://ravvviii.netlify.app/
 - 💬 Ask me about **Frontend**

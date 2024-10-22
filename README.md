@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on [e-Janausadhi](Will available soon)
+- 🔭 I’m currently working on ZipZap
 
 - 🌱 I’m currently learning **React-Native**
 

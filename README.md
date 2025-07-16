@@ -6,14 +6,12 @@
 
 
 
-- 🔭 I’m currently working on ZipZap
+- 🔭 I’m currently working with Animall.
 
-- 🌱 I’m currently learning **React-Native**
-
-- 👯 I’m looking to collaborate with **Developer**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at https://ravvviii.netlify.app/
-- 💬 Ask me about **Frontend**
+- 💬 Ask me about **Full-Stack**
 
 - 📫 How to reach me **workwithravvviii@gmail.com**
 

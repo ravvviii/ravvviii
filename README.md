@@ -36,3 +36,41 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravvviii&" alt="ravvviii" /></p>
 
+
+### 🛠 GitHub Stats.
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img width="95%" src="https://github-readme-stats.vercel.app/api?username=ravvviii&show_icons=true&count_private=true&theme=tokyonight" />
+    </td>
+    <td align="center" width="50%">
+      <img width="95%" src="https://github-readme-streak-stats.herokuapp.com?user=ravvviii&theme=tokyonight" />
+    </td>
+  </tr>
+  <tr>
+  <td align="center" width="50%">
+    <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravvviii&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
+  </td>
+  <td align="center" width="50%">
+    <img width="90%" src="https://github-profile-trophy.vercel.app/?username=ravvviii&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
+  </td>
+</tr>
+</table>
+
+---
+
+### 🔥 GitHub Contribution Graph
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ravvviii&theme=tokyo-night" />
+</p>
+
+---
+
+### ⭐ Profile Badges
+<p align="center">
+  <img src="https://img.shields.io/github/followers/ravvviii?label=Followers&style=social" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/ravvviii?label=Stars&style=social" />
+</p>
+
